@@ -6,7 +6,7 @@ This report is just a copy of `README.md` file from my original project reposito
 
 **Author:** [Vivek Kumar](https://github.com/vickvey)
 
-This document provides a comprehensive overview of the end-to-end machine learning (ML) pipeline developed for the PPG Project. 
+This document provides a comprehensive overview of the [end-to-end machine learning (ML) pipeline](https://github.com/vickvey/Project-PPG-Public/blob/main/pipeline.drawio.pdf) developed for the PPG Project. 
 
 It details each stage of the process, from data extraction and preprocessing to model training and evaluation, ensuring clarity and reproducibility for future reference.
 
