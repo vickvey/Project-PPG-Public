@@ -1,3 +1,7 @@
+### IMPORTANT NOTE: 
+This report is just a copy of `README.md` file from my original project repository which I kept private, due to ongoing research on the same topic of PPG Signal by my guide Professor [Dr. Haroon Lone](https://loneharoon.github.io/) and his team at [SIRL](https://sirl-lab.github.io/).
+<hr/>
+
 # Project-PPG Documentation
 
 **Author:** [Vivek Kumar](https://github.com/vickvey)
